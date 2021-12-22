@@ -1,6 +1,6 @@
 # WASHINGTON CANNABIS INTEGRATORS ALLIANCE BYLAWS
 
-#https://www.cannabisintegratorsalliance.com/
+# https://www.cannabisintegratorsalliance.com/
 
 ----------------------------------------
 
