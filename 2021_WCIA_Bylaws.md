@@ -160,3 +160,15 @@ Upon dissolution of the corporation, the Steering Committee shall dispose of all
 of the corporation exclusively for the purposes of the group. Any such assets not so disposed 
 of shall be disposed of by the Superior Court in the County in which the current President
 resides, exclusively for such purposes.
+
+----------------------------------------
+
+# ARTICLE 12
+## PARLIAMENTARY PROCEDURES
+
+Robert's Rules of Order, Newly Revised, when not in conflict with these By-laws, shall
+govern the proceedings of this organization.
+
+----------------------------------------
+
+Approved Month Day, Year
